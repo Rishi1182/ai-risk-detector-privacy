@@ -1,6 +1,6 @@
 # Privacy Policy – AI Risk Detector
 
-**Last updated: 27 January 2026**
+**Last updated: 28 January 2026**
 
 AI Risk Detector is a browser extension that helps users identify AI-generated content, phishing attempts, impersonation, and coordinated fraud patterns.
 
